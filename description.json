@@ -1,1 +1,53 @@
-[]
+[
+	{
+		"title": "DigiCard",
+		"description": "DigiCard is a platform where you can store all your social media links in one place and share them with everyone",
+		"banner": "https://projectbanners.s3.eu-north-1.amazonaws.com/Screenshot+2024-08-18+205941.png",
+		"github": "https://github.com/MaxAnii/Digi-cards",
+		"live": "https://digicards1.vercel.app/",
+		"projectNumber": 6,
+		"techStack": "Next JS, Shadcn , PostgreSQL, Prisma, S3, nextAuth."
+	},
+	{
+		"title": "SENTRY",
+		"description": "A NodeJS service for semantic content moderation on the social media platform, WhatsApp. Implements a feature to warn and remove users from chat groups for policy violations",
+		"banner": "https://projectbanners.s3.eu-north-1.amazonaws.com/Screenshot+2024-08-27+105953.png",
+		"github": "https://github.com/MaxAnii/SENTRY",
+		"projectNumber": 5,
+		"techStack": "Next JS, Shadcn , PostgreSQL, Prisma, Whatsapp-web.js, sightengine API."
+	},
+	{
+		"title": "TechNews",
+		"description": "TechNewsBot is a Python-based Twitter bot designed to automate tweets related to the latest technology news. The bot utilizes the News API to fetch real-time technology news articles and the Tweepy library to automate the tweeting process. This project aims to provide a convenient way to keep followers updated on the latest happenings in the tech world.",
+		"banner": "https://projectbanners.s3.eu-north-1.amazonaws.com/Screenshot+2024-08-27+113110.png",
+		"github": "https://github.com/MaxAnii/TechNews",
+		"live": "https://x.com/__TechNews",
+		"projectNumber": 4,
+		"techStack": "Python, Tweepy, Newsapi."
+	},
+	{
+		"title": "TabTrace (Chromium-Extension)",
+		"description": "Chromium-based browser extension to access your history without leaving your active browser tab and allows you to delete the history of a specific site and you can see the top 10 most visited site in 3 months.",
+		"banner": "https://projectbanners.s3.eu-north-1.amazonaws.com/Screenshot+2024-08-27+114143.png",
+		"github": "https://github.com/MaxAnii/TabTrace--Chromium-Extension",
+		"projectNumber": 3,
+		"techStack": "React JS, Chrome API."
+	},
+	{
+		"title": "Share Expense",
+		"description": " Share Expense provides teams with the essential resources, this project has ensured that they have everything they need tefficiently coordinate their finances. Collaborative spaces were established, and members were encouraged to join and participate. Monitored expenses seamlessly through note writing and maintenance, leading to a 25% increase in financial transparency.",
+		"banner": "https://projectbanners.s3.eu-north-1.amazonaws.com/Screenshot+2024-08-27+115550.png",
+		"github": "https://github.com/MaxAnii/Share-Expense",
+		"live": "https://shareexpense.vercel.app/",
+		"projectNumber": 2,
+		"techStack": "React JS, Bootstrap, Node JS, PostgreSQL, Express, Passport JS."
+	},
+	{
+		"title": "ProjectHarbor",
+		"description": "This project facilitates efficient project management within a college ecosystem, enabling college administrators, HODs, professors, and students to collaborate seamlessly. It streamlines mentor selection, project approval, and project finalization processes, while also providing hierarchical visibility of ongoing projects tailored to each role.",
+		"banner": "https://projectbanners.s3.eu-north-1.amazonaws.com/projectManager2.png",
+		"github": "https://github.com/MaxAnii/ProjectHarbor/new/master",
+		"projectNumber": 1,
+		"techStack": "React JS, Bootstrap, Node JS, PostgreSQL, Express, S3."
+	}
+]
